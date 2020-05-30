@@ -1,0 +1,4 @@
+#Tue Mar 31 13:00:08 BST 2020
+base.0=/home/david/Flutter/Projects/flutter_demo_gatherer/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
